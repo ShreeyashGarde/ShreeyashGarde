@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA in java and a bit of web developement
 - 📫 How to reach me :-
 -connect with me on 1) twitter :- @ShreeyashGarde
-2)linkedin :- Username - Shreeyash Garde
+2)linkedin :- Shreeyash Garde
 
 
 <!---
