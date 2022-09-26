@@ -1,8 +1,7 @@
 - 👋 Hi, I’m ShreeyashGarde
 - 👀 I’m interested in app and web developement
 - 🌱 I’m currently learning DSA in java and a bit of web developement
-- 📫 How to reach me :-
--connect with me on 1) twitter :- @ShreeyashGarde
+- 📫connect with me on 1) twitter :- @ShreeyashGarde
 2)linkedin :- Shreeyash Garde
 
 
