@@ -24,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreeyashgarde&show_icons=true&locale=en&layout=compact" alt="shreeyashgarde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreeyashgarde&show_icons=true&locale=en" alt="shreeyashgarde" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeyashgarde&" alt="shreeyashgarde" /></p>
