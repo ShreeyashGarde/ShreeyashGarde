@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/shreeyashgarde" target="blank"><img src="https://img.shields.io/twitter/follow/shreeyashgarde?logo=twitter&style=for-the-badge" alt="shreeyashgarde" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript.**
 
-- 💬 Ask me about **Html,css,Bootstrap,Java**
+- 💬 Ask me about **Html , CSS , Bootstrap , Java.**
 
 - 📫 How to reach me **shreeyash2304@gmail.com**
 
