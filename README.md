@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Html , CSS , Bootstrap , Java , Javascript.**
 
-- 📫 How to reach me **shreeyash2304@gmail.com**
+- 📫 Reach out to me on **shreeyash2304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
